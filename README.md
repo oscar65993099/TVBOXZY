@@ -4,6 +4,8 @@ TVBOX
 
 https://raw.githubusercontent.com/oscar65993099/TVBOXZY/main/tvbox.json
 
+https://ghproxy.com/https://raw.githubusercontent.com/oscar65993099/TVBOXZY/main/tvbox.json
+
 https://raw.iqiq.io/oscar65993099/TVBOXZY/main/iqiq.json
 
 Github RAW 加速服务
